@@ -1,0 +1,29 @@
+﻿status_clean,SUM of amount_usd,,,,,,
+Captured,82355.5,,,,,,
+Chargeback,16260,,,,,,
+Failed E05 Timeout,17464.5,,,,,,
+Grand Total,116080,,merchant_name_clean,SUM of amount_usd,,gateway_region_clean,SUM of amount_usd
+,,,Alpha Mart,40812,,APAC,50177.5
+,,,Beta Stores,41782,,EU,18886
+,,,City Pharma,8640,,MISSING,32416.5
+,,,Delta Travels,14600,,US,14600
+,,,Eco Home,10246,,Grand Total,116080
+,,,Grand Total,116080,,,
+merchant_name_clean,SUM of high_value_flag,,,,,,
+Alpha Mart,2,,,,,,
+Beta Stores,2,,,,,,
+City Pharma,0,,,,,,
+Delta Travels,1,,,,,,
+Eco Home,1,,User Name,SUM of high_value_flag,,,
+Grand Total,6,,Aarav Shah,1,,,
+,,,Emma Brooks,0,,,
+,,,Ishaan Verma,0,,,
+,,,Kabir Jain,1,,,
+merchant_name_clean,SUM of high_risk_flag,,Liam Carter,0,,,
+Alpha Mart,2,,Meera Iyer,0,,,
+Beta Stores,5,,Noah Kim,1,,,
+City Pharma,0,,Riya Gupta,1,,,
+Delta Travels,1,,Sofia Rossi,1,,,
+Eco Home,1,,Vikram Nair,1,,,
+Grand Total,9,,Grand Total,6,,,
+,,,,,,,

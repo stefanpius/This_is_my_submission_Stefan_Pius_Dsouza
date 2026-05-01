@@ -1,0 +1,4 @@
+transaction_id,transaction_date,merchant_id,amount_usd,status,payment_method,missing_from
+R004,2026-03-02,M003,2100.0,success,Card,gateway
+R010,2026-03-05,M004,2500.0,success,Wallet,gateway
+R011,2026-03-05,M003,1800.0,success,Card,ledger
